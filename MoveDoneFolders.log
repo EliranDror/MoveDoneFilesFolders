@@ -1,0 +1,364 @@
+INFO:root:03-15-2017_13:59:58 Initiating start, Read Sccess!
+INFO:root:03-15-2017_13:59:58 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_13:59:58 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_13:59:58 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:00:00 Just copied: C:\acs_output\ACS4\13-02-2017\000 to C:\acs_output\DESTINATION\ACS4\13-02-2017
+INFO:root:03-15-2017_14:00:04 Just copied: C:\acs_output\ACS4\14-02-2017\000 to C:\acs_output\DESTINATION\ACS4\14-02-2017
+INFO:root:03-15-2017_14:00:04 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:00:04 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:00:07 Just copied: C:\acs_output\ACS5\13-02-2017\000 to C:\acs_output\DESTINATION\ACS5\13-02-2017
+INFO:root:03-15-2017_14:00:12 Just copied: C:\acs_output\ACS5\14-02-2017\000 to C:\acs_output\DESTINATION\ACS5\14-02-2017
+INFO:root:03-15-2017_14:00:13 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:03:49 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:03:49 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:03:49 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:03:49 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:03:49 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:03:49 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:03:49 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:04:40 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:04:40 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:04:40 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:04:40 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:04:40 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:04:40 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:04:40 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:04:40 The system cannot find the path specified
+INFO:root:03-15-2017_14:04:40 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:04:40 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:04:43 Just copied: C:\acs_output\ACS1\13-02-2017\000 to C:\acs_output\DESTINATION\ACS1\13-02-2017
+INFO:root:03-15-2017_14:05:26 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:05:26 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:05:26 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:05:26 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:05:26 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:05:26 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:05:26 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:05:26 The system cannot find the path specified
+INFO:root:03-15-2017_14:05:26 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:05:26 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:05:30 Just copied: C:\acs_output\ACS1\14-02-2017\000 to C:\acs_output\DESTINATION\ACS1\14-02-2017
+INFO:root:03-15-2017_14:06:44 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:06:44 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:06:44 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:06:44 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:06:44 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:06:44 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:06:44 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:06:44 ERRORThe system cannot find the path specified
+INFO:root:03-15-2017_14:06:44 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:06:44 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:06:52 Just copied: C:\acs_output\ACS1\15-02-2017\000 to C:\acs_output\DESTINATION\ACS1\15-02-2017
+INFO:root:03-15-2017_14:08:05 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:08:05 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:08:05 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:08:05 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:08:05 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:08:05 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:08:05 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:08:05 error(2): The system cannot find the path specified
+INFO:root:03-15-2017_14:08:05 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:08:05 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:08:07 Just copied: C:\acs_output\ACS1\16-02-2017\000 to C:\acs_output\DESTINATION\ACS1\16-02-2017
+INFO:root:03-15-2017_14:08:07 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:08:07 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:08:09 Just copied: C:\acs_output\ACS2\13-02-2017\000 to C:\acs_output\DESTINATION\ACS2\13-02-2017
+INFO:root:03-15-2017_14:08:13 Just copied: C:\acs_output\ACS2\14-02-2017\000 to C:\acs_output\DESTINATION\ACS2\14-02-2017
+INFO:root:03-15-2017_14:08:14 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:08:14 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:08:16 Just copied: C:\acs_output\ACS3\13-02-2017\000 to C:\acs_output\DESTINATION\ACS3\13-02-2017
+INFO:root:03-15-2017_14:08:20 Just copied: C:\acs_output\ACS3\14-02-2017\000 to C:\acs_output\DESTINATION\ACS3\14-02-2017
+INFO:root:03-15-2017_14:08:20 Checking log size
+INFO:root:03-15-2017_14:08:20 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:08:25 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:08:25 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:08:25 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:08:25 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:08:25 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:08:25 error(2): The system cannot find the path specified
+INFO:root:03-15-2017_14:08:25 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:08:25 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:08:25 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:08:25 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:08:25 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:08:25 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:08:25 Checking log size
+INFO:root:03-15-2017_14:08:25 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:09:55 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:09:55 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:09:55 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:09:55 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:09:55 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:09:55 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:09:55 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:09:55 ERROR(2): The system cannot find the path specified
+INFO:root:03-15-2017_14:09:55 
+INFO:root:03-15-2017_14:09:55 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:09:55 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:09:55 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:09:55 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:09:55 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:09:55 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:09:55 Checking log size
+INFO:root:03-15-2017_14:09:55 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:10:00 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:10:00 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:10:00 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:10:00 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:10:00 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:10:00 ERROR(2): The system cannot find the path specified
+INFO:root:03-15-2017_14:10:00 
+INFO:root:03-15-2017_14:10:00 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:10:00 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:10:00 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:10:00 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:10:00 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:10:00 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:10:00 Checking log size
+INFO:root:03-15-2017_14:10:00 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:10:05 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:10:05 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:10:05 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:10:05 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:10:05 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:10:05 ERROR(2): The system cannot find the path specified
+INFO:root:03-15-2017_14:10:05 
+INFO:root:03-15-2017_14:10:05 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:10:05 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:10:05 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:10:05 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:10:05 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:10:05 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:10:05 Checking log size
+INFO:root:03-15-2017_14:10:05 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:10:10 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:10:10 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:10:10 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:10:10 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:10:10 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:10:10 ERROR(2): The system cannot find the path specified
+INFO:root:03-15-2017_14:10:10 
+INFO:root:03-15-2017_14:10:10 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:10:10 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:10:10 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:10:10 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:10:10 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:10:10 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:10:10 Checking log size
+INFO:root:03-15-2017_14:10:10 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:10:49 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:10:49 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:10:49 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:10:49 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:10:49 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:10:49 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:10:49 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:12:15 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:12:15 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:12:15 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:12:15 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:12:25 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:12:25 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:12:25 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:12:25 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:12:25 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:12:25 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:12:25 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:12:25 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:12:25 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:12:25 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:12:25 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:12:25 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:12:25 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:12:25 Checking log size
+INFO:root:03-15-2017_14:12:25 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:12:42 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:12:42 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:12:42 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:12:42 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:12:42 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:12:42 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:12:42 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:12:42 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:12:42 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:12:42 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:12:42 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:12:42 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:12:42 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:12:42 Checking log size
+INFO:root:03-15-2017_14:12:42 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:12:53 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:12:53 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:12:53 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:12:53 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:12:53 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:12:53 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:12:53 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:12:53 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:12:53 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:12:53 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:12:53 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:12:53 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:12:53 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:12:53 Checking log size
+INFO:root:03-15-2017_14:12:53 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:13:26 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:13:26 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:13:26 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:13:26 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:13:26 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:13:26 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:13:26 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:13:26 ERROR(3): The system cannot find the path specified
+INFO:root:03-15-2017_14:13:26 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:13:26 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:13:26 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:13:26 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:13:26 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:13:26 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:13:26 Checking log size
+INFO:root:03-15-2017_14:13:26 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:13:31 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:13:31 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:13:31 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:13:31 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:13:31 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:13:31 ERROR(3): The system cannot find the path specified
+INFO:root:03-15-2017_14:13:31 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:13:31 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:13:31 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:13:31 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:13:31 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:13:31 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:13:31 Checking log size
+INFO:root:03-15-2017_14:13:31 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:13:36 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:13:36 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:13:36 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:13:36 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:13:36 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:13:36 ERROR(3): The system cannot find the path specified
+INFO:root:03-15-2017_14:13:36 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:13:36 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:13:36 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:13:36 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:13:36 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:13:36 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:13:36 Checking log size
+INFO:root:03-15-2017_14:13:36 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:13:41 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:13:41 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:13:41 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:13:41 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:13:41 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:13:41 ERROR(3): The system cannot find the path specified
+INFO:root:03-15-2017_14:13:41 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:13:41 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:13:41 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:13:41 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:13:41 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:13:41 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:13:41 Checking log size
+INFO:root:03-15-2017_14:13:41 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:13:59 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:13:59 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:13:59 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:13:59 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:13:59 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:13:59 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:13:59 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:13:59 ERROR(3): The system cannot find the path specified C:\acs_output\host/*.*
+INFO:root:03-15-2017_14:13:59 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:13:59 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:13:59 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:13:59 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:13:59 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:13:59 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:13:59 Checking log size
+INFO:root:03-15-2017_14:13:59 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:14:04 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:14:04 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:14:04 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:14:04 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:14:04 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:14:04 ERROR(3): The system cannot find the path specified C:\acs_output\host/*.*
+INFO:root:03-15-2017_14:14:04 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:14:04 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:14:04 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:14:04 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:14:04 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:14:04 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:14:04 Checking log size
+INFO:root:03-15-2017_14:14:04 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:14:09 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:14:09 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:14:09 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:14:09 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:14:09 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:14:09 ERROR(3): The system cannot find the path specified C:\acs_output\host/*.*
+INFO:root:03-15-2017_14:14:09 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:14:09 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:14:09 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:14:09 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:14:09 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:14:09 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:14:09 Checking log size
+INFO:root:03-15-2017_14:14:09 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:14:28 Initiating start, Read Sccess!
+INFO:root:03-15-2017_14:14:28 Config file dict == {'max_log_size': '10240', 'log_name': 'MoveDoneFolders.log', 'input_folder4': 'C:\\acs_output\\ACS4', 'input_folder5': 'C:\\acs_output\\ACS5', 'input_folder6': 'C:\\acs_output\\host', 'input_folder1': 'C:\\acs_output\\ACS1', 'input_folder2': 'C:\\acs_output\\ACS2', 'input_folder3': 'C:\\acs_output\\ACS3', 'scan_interval': '5', 'value_to_move': '5000', 'file_type2': 'csv.done', 'file_type1': 'json.done', 'output_folder': 'C:\\acs_output\\DESTINATION'}
+INFO:root:03-15-2017_14:14:28 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:14:28 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:14:28 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:14:28 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:14:28 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:14:28 This current folders list: [] in input folder C:\acs_output\host
+INFO:root:03-15-2017_14:14:28 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:14:28 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:14:28 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:14:28 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:14:28 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:14:28 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:14:28 Checking log size
+INFO:root:03-15-2017_14:14:28 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:14:33 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:14:33 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:14:33 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:14:33 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:14:33 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:14:33 This current folders list: [] in input folder C:\acs_output\host
+INFO:root:03-15-2017_14:14:33 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:14:33 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:14:33 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:14:33 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:14:33 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:14:33 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:14:33 Checking log size
+INFO:root:03-15-2017_14:14:33 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:14:38 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:14:38 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:14:38 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:14:38 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:14:38 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:14:38 This current folders list: [] in input folder C:\acs_output\host
+INFO:root:03-15-2017_14:14:38 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:14:38 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:14:38 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:14:38 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:14:38 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:14:38 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:14:38 Checking log size
+INFO:root:03-15-2017_14:14:38 Going to sleep for 5 sec
+INFO:root:03-15-2017_14:14:43 Working directory is: C:\acs_output\DESTINATION\ACS4
+INFO:root:03-15-2017_14:14:43 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS4
+INFO:root:03-15-2017_14:14:43 Working directory is: C:\acs_output\DESTINATION\ACS5
+INFO:root:03-15-2017_14:14:43 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS5
+INFO:root:03-15-2017_14:14:43 Working directory is: C:\acs_output\DESTINATION\host
+INFO:root:03-15-2017_14:14:43 This current folders list: [] in input folder C:\acs_output\host
+INFO:root:03-15-2017_14:14:43 Working directory is: C:\acs_output\DESTINATION\ACS1
+INFO:root:03-15-2017_14:14:43 This current folders list: ['13-02-2017', '14-02-2017', '15-02-2017', '16-02-2017'] in input folder C:\acs_output\ACS1
+INFO:root:03-15-2017_14:14:43 Working directory is: C:\acs_output\DESTINATION\ACS2
+INFO:root:03-15-2017_14:14:43 This current folders list: ['13-02-2017', '14-02-2017'] in input folder C:\acs_output\ACS2
+INFO:root:03-15-2017_14:14:43 Working directory is: C:\acs_output\DESTINATION\ACS3
+INFO:root:03-15-2017_14:14:43 This current folders list: ['13-02-2017', '14-02-2017', 'csv'] in input folder C:\acs_output\ACS3
+INFO:root:03-15-2017_14:14:43 Checking log size
+INFO:root:03-15-2017_14:14:43 Going to sleep for 5 sec
